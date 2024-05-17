@@ -7,7 +7,7 @@ import 'package:intl/intl.dart';
 import '../models/NewsHeadlinesModel.dart';
 import '../models/catgory_news_model.dart';
 import '../view_models/new_view_models.dart';
-import 'homescreen.dart';
+import 'news_homescreen.dart';
 import 'news_details_screen.dart';
 
 class CategoryScreen extends StatefulWidget {
